@@ -9,8 +9,8 @@ body {
 }
 
 .topnav {
-    background-color: black;
     overflow: hidden;
+    margin-top: 3em;
 }
 
 .topnav a {
@@ -18,14 +18,16 @@ body {
     font-size: 20px;
     text-align: center;
     font-style: normal;
-    margin: 2em;
+    margin: 1em;
 }
 
 h1 {
-  margin-top: 3em;
+  margin-top: 2.5em;
   text-align: center;
   font-size: 70px;
 }
+
+
 
 h2 {
   text-align: center;
@@ -36,7 +38,8 @@ img {
   margin: 4em;
 }
 
-p {
+p,
+.softskills {
   color: gray;
   margin: 3em;
   font-size: 21px;
